@@ -1,4 +1,3 @@
-![Thumbnail GitHub](thumb.png)
 
 # Rotas app
 
